@@ -7,7 +7,6 @@ The goal was to identify top performing cities, business types, and customer beh
 ## Tools Used
 - SQL (SQLite)
 - DB Browser for SQLite
-- Python (pandas) for data conversion
 
 ## Dataset
 - 500 rows of Australian retail data
