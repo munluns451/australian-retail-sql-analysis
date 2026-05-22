@@ -1,0 +1,501 @@
+Type of Business,Business Name,Location,Opening Time,Closing Time,Most Traffic Occurring Time,Maximum Sales Time,Employee Scheduling,Maximum Sales Time.1,Daily Average Sales,Weekly Average Sales,Popular Products Sold,Customer Demographics,Payment Methods,Customer Satisfaction,Store Profitability,Employee Satisfaction,Labour Law Complaints
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,19:00 PM,16:00 PM,Overstaffed,8:00 PM,3520.77,23527.26,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,14:00 PM,18:00 PM,Understaffed,5:00 PM,2915.36,27744.2,"Children's Books, Non-fiction",Teens,Credit Card,Good,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,16:00 PM,19:00 PM,Overstaffed,6:00 PM,1984.46,22411.88,"Non-fiction, Children's Books",Teens,Credit Card,Bad,Decreased,Satisfied,No
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,18:00 PM,19:00 PM,Overstaffed,7:00 PM,644.22,31314.84,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,15:00 PM,21:00 PM,Understaffed,6:00 PM,620.63,27881.23,"Chairs, Sofas",Seniors,Cash,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,10:00 AM,18:00 PM,Overstaffed,5:00 PM,2024.04,24596.94,"T-shirts, Dresses",Young Adults,Digital Wallet,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,17:00 PM,20:00 PM,Overstaffed,7:00 PM,2626.54,28055.49,"Dresses, T-shirts",Young Adults,Digital Wallet,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,20:00 PM,21:00 PM,Understaffed,8:00 PM,3271.96,7099.24,"Jeans, Dresses",Young Adults,Cash,Good,Decreased,Satisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,18:00 PM,21:00 PM,Understaffed,4:00 PM,3432.78,31120.31,"Fruits, Vegetables",Families,Credit Card,Bad,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,11:00 AM,18:00 PM,Understaffed,7:00 PM,2846.88,5881.06,"Fiction, Non-fiction",Teens,Cash,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,13:00 PM,20:00 PM,Overstaffed,8:00 PM,2773.89,18752.4,"Jeans, T-shirts",Young Adults,Debit Card,Bad,Decreased,Satisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,19:00 PM,16:00 PM,Overstaffed,8:00 PM,3516.34,4506.35,"Headphones, Laptops",Professionals,Cash,Good,Decreased,Dissatisfied,No
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,18:00 PM,16:00 PM,Understaffed,7:00 PM,1016.63,17681.03,"Sofas, Chairs",Seniors,Debit Card,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,15:00 PM,20:00 PM,Overstaffed,8:00 PM,3058.23,28428.59,"Dresses, T-shirts",Young Adults,Debit Card,Good,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,20:00 PM,20:00 PM,Overstaffed,4:00 PM,3456.27,29764.97,"Children's Books, Non-fiction",Teens,Credit Card,Good,Decreased,Satisfied,No
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,13:00 PM,19:00 PM,Overstaffed,6:00 PM,2372.12,13514.1,"Fiction, Children's Books",Teens,Debit Card,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,15:00 PM,18:00 PM,Understaffed,5:00 PM,1869.96,16555.13,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Satisfied,No
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,20:00 PM,21:00 PM,Understaffed,6:00 PM,1894.96,27644.93,"Vegetables, Dairy Products",Families,Credit Card,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,11:00 AM,20:00 PM,Overstaffed,6:00 PM,3713.27,9611.54,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,12:00 PM,16:00 PM,Overstaffed,5:00 PM,1824.97,4393.05,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Increased,Dissatisfied,No
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,11:00 AM,16:00 PM,Understaffed,5:00 PM,1642.32,11199.55,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,14:00 PM,19:00 PM,Overstaffed,4:00 PM,3891.6,19664.63,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,20:00 PM,17:00 PM,Overstaffed,5:00 PM,4530.62,30752.11,"Tables, Chairs",Seniors,Credit Card,Bad,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,16:00 PM,18:00 PM,Overstaffed,8:00 PM,2193.14,29893.65,"Tables, Chairs",Seniors,Debit Card,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,10:00 AM,20:00 PM,Understaffed,8:00 PM,3085.43,27206.17,"Jeans, Dresses",Young Adults,Cash,Bad,Increased,Satisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,12:00 PM,19:00 PM,Overstaffed,7:00 PM,2592.98,16550.99,"Fruits, Dairy Products",Families,Credit Card,Good,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,12:00 PM,19:00 PM,Overstaffed,7:00 PM,3852.25,9355.14,"Laptops, Headphones",Professionals,Credit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,14:00 PM,17:00 PM,Overstaffed,8:00 PM,2053.14,32853.06,"Jeans, Dresses",Young Adults,Credit Card,Bad,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,15:00 PM,16:00 PM,Overstaffed,4:00 PM,3727.56,29805.39,"Smartphones, Headphones",Professionals,Debit Card,Bad,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,13:00 PM,20:00 PM,Overstaffed,4:00 PM,3802.51,14668.11,"Chairs, Sofas",Seniors,Cash,Bad,Increased,Satisfied,Yes
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,16:00 PM,20:00 PM,Overstaffed,8:00 PM,3369.75,35243.02,"Tables, Sofas",Seniors,Cash,Bad,Decreased,Satisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,14:00 PM,16:00 PM,Overstaffed,5:00 PM,2767.02,11637.76,"Fiction, Children's Books",Teens,Debit Card,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,13:00 PM,17:00 PM,Overstaffed,6:00 PM,3093.39,27201.77,"Jeans, Dresses",Young Adults,Digital Wallet,Bad,Increased,Satisfied,No
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,18:00 PM,19:00 PM,Understaffed,7:00 PM,893.16,30782.35,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,14:00 PM,21:00 PM,Overstaffed,4:00 PM,3088.49,30944.95,"Chairs, Sofas",Seniors,Debit Card,Bad,Decreased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,11:00 AM,18:00 PM,Overstaffed,5:00 PM,2348.8,15187.09,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,17:00 PM,17:00 PM,Overstaffed,8:00 PM,4707.05,15252.13,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,19:00 PM,17:00 PM,Understaffed,8:00 PM,4857.47,15519.28,"Headphones, Smartphones",Professionals,Credit Card,Good,Increased,Dissatisfied,No
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,18:00 PM,20:00 PM,Understaffed,5:00 PM,1684.1,32166.92,"Sofas, Chairs",Seniors,Cash,Good,Increased,Satisfied,No
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,15:00 PM,16:00 PM,Overstaffed,6:00 PM,973.06,29899.31,"Chairs, Tables",Seniors,Digital Wallet,Bad,Increased,Satisfied,No
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,16:00 PM,19:00 PM,Overstaffed,5:00 PM,2165.22,20996.76,"Headphones, Laptops",Professionals,Cash,Good,Increased,Dissatisfied,No
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,18:00 PM,17:00 PM,Understaffed,8:00 PM,3388.26,20501.24,"Laptops, Smartphones",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,No
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,12:00 PM,21:00 PM,Overstaffed,8:00 PM,4093.87,4679.48,"Chairs, Sofas",Seniors,Credit Card,Good,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,19:00 PM,19:00 PM,Understaffed,4:00 PM,3458.06,33826.54,"Non-fiction, Fiction",Teens,Credit Card,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,16:00 PM,17:00 PM,Understaffed,4:00 PM,4429.49,16365.85,"Jeans, T-shirts",Young Adults,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,12:00 PM,16:00 PM,Overstaffed,8:00 PM,528.15,4943.75,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,10:00 AM,17:00 PM,Overstaffed,5:00 PM,3845.4,27085.17,"Vegetables, Dairy Products",Families,Debit Card,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,18:00 PM,21:00 PM,Overstaffed,8:00 PM,1749.15,10541.13,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,10:00 AM,17:00 PM,Overstaffed,7:00 PM,1345.44,32476.49,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Satisfied,No
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,14:00 PM,19:00 PM,Understaffed,5:00 PM,2604.29,31290.49,"Fiction, Children's Books",Teens,Digital Wallet,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,15:00 PM,17:00 PM,Understaffed,8:00 PM,3673.91,23640.44,"T-shirts, Jeans",Young Adults,Credit Card,Good,Increased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,14:00 PM,20:00 PM,Overstaffed,5:00 PM,2991.32,29589.27,"Children's Books, Non-fiction",Teens,Credit Card,Good,Increased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,17:00 PM,18:00 PM,Overstaffed,6:00 PM,1674.74,23431.37,"Non-fiction, Children's Books",Teens,Credit Card,Good,Increased,Satisfied,Yes
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,17:00 PM,19:00 PM,Overstaffed,7:00 PM,567.18,30524.95,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,15:00 PM,20:00 PM,Understaffed,6:00 PM,595.51,24550.48,"Chairs, Sofas",Seniors,Cash,Good,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,18:00 PM,19:00 PM,Overstaffed,5:00 PM,2129.78,21283.14,"T-shirts, Dresses",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,15:00 PM,16:00 PM,Understaffed,7:00 PM,2565.4,32137.86,"Dresses, T-shirts",Young Adults,Digital Wallet,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,15:00 PM,16:00 PM,Understaffed,8:00 PM,3463.1,7124.28,"Jeans, Dresses",Young Adults,Cash,Good,Decreased,Dissatisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,10:00 AM,19:00 PM,Overstaffed,4:00 PM,3327.09,29225.68,"Fruits, Vegetables",Families,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,10:00 AM,21:00 PM,Understaffed,7:00 PM,2532.72,5601.48,"Fiction, Non-fiction",Teens,Cash,Good,Decreased,Satisfied,No
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,12:00 PM,21:00 PM,Understaffed,8:00 PM,2587.65,17899.97,"Jeans, T-shirts",Young Adults,Debit Card,Good,Increased,Satisfied,No
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,12:00 PM,21:00 PM,Understaffed,8:00 PM,4066.65,4572.26,"Headphones, Laptops",Professionals,Cash,Bad,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,20:00 PM,18:00 PM,Understaffed,7:00 PM,923.82,15873.74,"Sofas, Chairs",Seniors,Debit Card,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,10:00 AM,16:00 PM,Understaffed,8:00 PM,3255.29,28919.06,"Dresses, T-shirts",Young Adults,Debit Card,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,16:00 PM,16:00 PM,Overstaffed,4:00 PM,4045.92,30434.97,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,10:00 AM,17:00 PM,Understaffed,6:00 PM,2073.12,12928.45,"Fiction, Children's Books",Teens,Debit Card,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,20:00 PM,16:00 PM,Overstaffed,5:00 PM,2113.14,15428.45,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,No
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,13:00 PM,16:00 PM,Understaffed,6:00 PM,1652.66,26558.9,"Vegetables, Dairy Products",Families,Credit Card,Bad,Increased,Satisfied,No
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,14:00 PM,17:00 PM,Understaffed,6:00 PM,3176.36,9805.51,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,11:00 AM,18:00 PM,Understaffed,5:00 PM,1817.23,4993.39,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,No
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,19:00 PM,17:00 PM,Overstaffed,5:00 PM,1724.38,11666.79,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,20:00 PM,16:00 PM,Overstaffed,4:00 PM,4574.39,19269.53,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Satisfied,No
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,14:00 PM,18:00 PM,Overstaffed,5:00 PM,4622.0,31405.29,"Tables, Chairs",Seniors,Credit Card,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,14:00 PM,21:00 PM,Understaffed,8:00 PM,2038.21,29700.33,"Tables, Chairs",Seniors,Debit Card,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,17:00 PM,20:00 PM,Overstaffed,8:00 PM,3550.11,26921.01,"Jeans, Dresses",Young Adults,Cash,Bad,Decreased,Dissatisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,11:00 AM,18:00 PM,Understaffed,7:00 PM,2308.97,16474.59,"Fruits, Dairy Products",Families,Credit Card,Good,Increased,Satisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,14:00 PM,20:00 PM,Understaffed,7:00 PM,4376.63,9799.48,"Laptops, Headphones",Professionals,Credit Card,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,20:00 PM,20:00 PM,Understaffed,8:00 PM,2044.61,34828.47,"Jeans, Dresses",Young Adults,Credit Card,Bad,Increased,Satisfied,Yes
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,20:00 PM,19:00 PM,Understaffed,4:00 PM,3876.15,29946.95,"Smartphones, Headphones",Professionals,Debit Card,Bad,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,17:00 PM,18:00 PM,Overstaffed,4:00 PM,4177.87,13999.34,"Chairs, Sofas",Seniors,Cash,Bad,Decreased,Dissatisfied,No
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,18:00 PM,17:00 PM,Understaffed,8:00 PM,3667.47,37754.76,"Tables, Sofas",Seniors,Cash,Good,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,13:00 PM,21:00 PM,Overstaffed,5:00 PM,2334.61,10568.35,"Fiction, Children's Books",Teens,Debit Card,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,11:00 AM,21:00 PM,Understaffed,6:00 PM,3201.11,25747.56,"Jeans, Dresses",Young Adults,Digital Wallet,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,17:00 PM,17:00 PM,Understaffed,7:00 PM,848.65,27933.09,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,15:00 PM,19:00 PM,Understaffed,4:00 PM,3413.68,31001.93,"Chairs, Sofas",Seniors,Debit Card,Good,Increased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,14:00 PM,21:00 PM,Overstaffed,5:00 PM,2184.51,16817.63,"Headphones, Laptops",Professionals,Digital Wallet,Good,Increased,Dissatisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,16:00 PM,17:00 PM,Understaffed,8:00 PM,4513.82,13148.67,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Satisfied,Yes
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,19:00 PM,17:00 PM,Overstaffed,8:00 PM,4493.69,16820.42,"Headphones, Smartphones",Professionals,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,17:00 PM,21:00 PM,Understaffed,5:00 PM,1661.07,31323.07,"Sofas, Chairs",Seniors,Cash,Bad,Increased,Satisfied,Yes
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,13:00 PM,16:00 PM,Understaffed,6:00 PM,982.6,29455.65,"Chairs, Tables",Seniors,Digital Wallet,Good,Increased,Satisfied,No
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,12:00 PM,18:00 PM,Overstaffed,5:00 PM,2377.43,19730.9,"Headphones, Laptops",Professionals,Cash,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,19:00 PM,20:00 PM,Overstaffed,8:00 PM,3656.84,18701.57,"Laptops, Smartphones",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,No
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,16:00 PM,17:00 PM,Overstaffed,8:00 PM,3550.61,5389.6,"Chairs, Sofas",Seniors,Credit Card,Good,Increased,Satisfied,No
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,14:00 PM,21:00 PM,Overstaffed,4:00 PM,3960.73,28399.06,"Non-fiction, Fiction",Teens,Credit Card,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,13:00 PM,21:00 PM,Overstaffed,4:00 PM,4611.38,16577.55,"Jeans, T-shirts",Young Adults,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,20:00 PM,16:00 PM,Overstaffed,8:00 PM,553.25,4909.29,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,18:00 PM,20:00 PM,Understaffed,5:00 PM,4174.4,29786.59,"Vegetables, Dairy Products",Families,Debit Card,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,18:00 PM,21:00 PM,Overstaffed,8:00 PM,1772.28,10292.85,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,18:00 PM,16:00 PM,Overstaffed,7:00 PM,1225.11,33339.48,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,20:00 PM,19:00 PM,Overstaffed,5:00 PM,2632.04,29215.92,"Fiction, Children's Books",Teens,Digital Wallet,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,17:00 PM,19:00 PM,Overstaffed,8:00 PM,3837.61,24762.69,"T-shirts, Jeans",Young Adults,Credit Card,Good,Increased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,14:00 PM,21:00 PM,Overstaffed,5:00 PM,2838.64,30516.97,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,14:00 PM,17:00 PM,Understaffed,6:00 PM,1978.68,23346.71,"Non-fiction, Children's Books",Teens,Credit Card,Good,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,15:00 PM,17:00 PM,Understaffed,7:00 PM,669.17,34482.18,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,18:00 PM,18:00 PM,Overstaffed,6:00 PM,693.17,24604.47,"Chairs, Sofas",Seniors,Cash,Bad,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,10:00 AM,19:00 PM,Overstaffed,5:00 PM,1959.25,24920.91,"T-shirts, Dresses",Young Adults,Digital Wallet,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,19:00 PM,16:00 PM,Overstaffed,7:00 PM,2379.78,29896.89,"Dresses, T-shirts",Young Adults,Digital Wallet,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,12:00 PM,17:00 PM,Understaffed,8:00 PM,3046.26,7146.1,"Jeans, Dresses",Young Adults,Cash,Good,Decreased,Satisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,18:00 PM,20:00 PM,Overstaffed,4:00 PM,3916.35,31465.16,"Fruits, Vegetables",Families,Credit Card,Good,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,15:00 PM,18:00 PM,Understaffed,7:00 PM,2402.1,6415.76,"Fiction, Non-fiction",Teens,Cash,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,13:00 PM,16:00 PM,Overstaffed,8:00 PM,2704.97,19252.85,"Jeans, T-shirts",Young Adults,Debit Card,Good,Decreased,Dissatisfied,No
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,11:00 AM,20:00 PM,Understaffed,8:00 PM,4084.04,4011.99,"Headphones, Laptops",Professionals,Cash,Good,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,19:00 PM,19:00 PM,Understaffed,7:00 PM,992.2,15854.9,"Sofas, Chairs",Seniors,Debit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,14:00 PM,21:00 PM,Understaffed,8:00 PM,3275.34,30228.67,"Dresses, T-shirts",Young Adults,Debit Card,Bad,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,14:00 PM,17:00 PM,Understaffed,4:00 PM,3699.32,27811.41,"Children's Books, Non-fiction",Teens,Credit Card,Good,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,11:00 AM,19:00 PM,Overstaffed,6:00 PM,2420.05,13015.36,"Fiction, Children's Books",Teens,Debit Card,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,10:00 AM,21:00 PM,Overstaffed,5:00 PM,1939.59,13804.24,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,10:00 AM,19:00 PM,Overstaffed,6:00 PM,1736.11,30417.82,"Vegetables, Dairy Products",Families,Credit Card,Bad,Increased,Satisfied,No
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,11:00 AM,21:00 PM,Overstaffed,6:00 PM,3100.3,9933.04,"Headphones, Laptops",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,No
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,15:00 PM,20:00 PM,Overstaffed,5:00 PM,1726.5,4409.5,"Headphones, Smartphones",Professionals,Digital Wallet,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,10:00 AM,16:00 PM,Overstaffed,5:00 PM,1843.79,12157.56,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,11:00 AM,18:00 PM,Overstaffed,4:00 PM,4463.41,18790.25,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,14:00 PM,18:00 PM,Overstaffed,5:00 PM,4431.54,28352.94,"Tables, Chairs",Seniors,Credit Card,Bad,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,10:00 AM,20:00 PM,Understaffed,8:00 PM,1902.62,27304.76,"Tables, Chairs",Seniors,Debit Card,Bad,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,14:00 PM,17:00 PM,Overstaffed,8:00 PM,3580.68,27637.78,"Jeans, Dresses",Young Adults,Cash,Good,Decreased,Dissatisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,19:00 PM,17:00 PM,Overstaffed,7:00 PM,2370.52,15528.8,"Fruits, Dairy Products",Families,Credit Card,Good,Decreased,Satisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,14:00 PM,16:00 PM,Understaffed,7:00 PM,4321.62,9536.1,"Laptops, Headphones",Professionals,Credit Card,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,11:00 AM,19:00 PM,Overstaffed,8:00 PM,2076.49,31402.92,"Jeans, Dresses",Young Adults,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,14:00 PM,16:00 PM,Understaffed,4:00 PM,3859.83,29750.06,"Smartphones, Headphones",Professionals,Debit Card,Good,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,11:00 AM,19:00 PM,Understaffed,4:00 PM,4076.5,14804.29,"Chairs, Sofas",Seniors,Cash,Bad,Decreased,Satisfied,No
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,20:00 PM,20:00 PM,Overstaffed,8:00 PM,3573.12,36927.37,"Tables, Sofas",Seniors,Cash,Good,Increased,Satisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,20:00 PM,21:00 PM,Overstaffed,5:00 PM,2536.14,10802.37,"Fiction, Children's Books",Teens,Debit Card,Bad,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,13:00 PM,16:00 PM,Understaffed,6:00 PM,3074.91,25400.44,"Jeans, Dresses",Young Adults,Digital Wallet,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,18:00 PM,18:00 PM,Overstaffed,7:00 PM,821.13,28533.25,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,14:00 PM,16:00 PM,Overstaffed,4:00 PM,3220.26,28553.59,"Chairs, Sofas",Seniors,Debit Card,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,16:00 PM,21:00 PM,Understaffed,5:00 PM,2257.84,15455.55,"Headphones, Laptops",Professionals,Digital Wallet,Good,Increased,Satisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,17:00 PM,18:00 PM,Understaffed,8:00 PM,4645.09,15321.04,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Satisfied,No
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,19:00 PM,21:00 PM,Understaffed,8:00 PM,4943.15,15658.85,"Headphones, Smartphones",Professionals,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,14:00 PM,19:00 PM,Understaffed,5:00 PM,1401.1,34141.81,"Sofas, Chairs",Seniors,Cash,Bad,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,10:00 AM,21:00 PM,Understaffed,6:00 PM,1062.29,31404.6,"Chairs, Tables",Seniors,Digital Wallet,Good,Increased,Satisfied,No
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,12:00 PM,17:00 PM,Understaffed,5:00 PM,2387.17,19919.05,"Headphones, Laptops",Professionals,Cash,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,13:00 PM,16:00 PM,Understaffed,8:00 PM,3760.94,17645.9,"Laptops, Smartphones",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,13:00 PM,19:00 PM,Overstaffed,8:00 PM,3729.84,5527.38,"Chairs, Sofas",Seniors,Credit Card,Bad,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,20:00 PM,20:00 PM,Overstaffed,4:00 PM,3807.18,33284.2,"Non-fiction, Fiction",Teens,Credit Card,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,16:00 PM,18:00 PM,Understaffed,4:00 PM,4079.83,14622.25,"Jeans, T-shirts",Young Adults,Digital Wallet,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,17:00 PM,16:00 PM,Understaffed,8:00 PM,543.75,5125.06,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,15:00 PM,20:00 PM,Overstaffed,5:00 PM,4243.37,29312.42,"Vegetables, Dairy Products",Families,Debit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,20:00 PM,20:00 PM,Overstaffed,8:00 PM,1691.87,10552.85,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,16:00 PM,21:00 PM,Understaffed,7:00 PM,1282.0,28571.16,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,10:00 AM,19:00 PM,Overstaffed,5:00 PM,2779.7,31680.94,"Fiction, Children's Books",Teens,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,11:00 AM,18:00 PM,Overstaffed,8:00 PM,3895.15,23211.61,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,10:00 AM,20:00 PM,Overstaffed,5:00 PM,2709.91,30480.18,"Children's Books, Non-fiction",Teens,Credit Card,Good,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,11:00 AM,16:00 PM,Overstaffed,6:00 PM,1867.82,21959.8,"Non-fiction, Children's Books",Teens,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,17:00 PM,20:00 PM,Overstaffed,7:00 PM,653.88,32026.37,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,18:00 PM,16:00 PM,Understaffed,6:00 PM,602.9,24859.5,"Chairs, Sofas",Seniors,Cash,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,14:00 PM,16:00 PM,Overstaffed,5:00 PM,2010.99,24820.78,"T-shirts, Dresses",Young Adults,Digital Wallet,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,19:00 PM,17:00 PM,Overstaffed,7:00 PM,2339.24,32711.16,"Dresses, T-shirts",Young Adults,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,19:00 PM,19:00 PM,Overstaffed,8:00 PM,3473.87,7152.93,"Jeans, Dresses",Young Adults,Cash,Bad,Decreased,Satisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,16:00 PM,16:00 PM,Overstaffed,4:00 PM,3308.91,32915.47,"Fruits, Vegetables",Families,Credit Card,Bad,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,12:00 PM,18:00 PM,Overstaffed,7:00 PM,2571.27,6050.13,"Fiction, Non-fiction",Teens,Cash,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,11:00 AM,16:00 PM,Understaffed,8:00 PM,2807.49,19847.68,"Jeans, T-shirts",Young Adults,Debit Card,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,11:00 AM,20:00 PM,Overstaffed,8:00 PM,4093.49,3946.34,"Headphones, Laptops",Professionals,Cash,Bad,Decreased,Satisfied,No
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,12:00 PM,18:00 PM,Overstaffed,7:00 PM,924.29,14942.68,"Sofas, Chairs",Seniors,Debit Card,Bad,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,14:00 PM,16:00 PM,Overstaffed,8:00 PM,3123.36,26857.17,"Dresses, T-shirts",Young Adults,Debit Card,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,19:00 PM,18:00 PM,Understaffed,4:00 PM,3503.76,30418.62,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Decreased,Satisfied,No
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,10:00 AM,18:00 PM,Overstaffed,6:00 PM,2339.26,13043.81,"Fiction, Children's Books",Teens,Debit Card,Good,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,12:00 PM,16:00 PM,Understaffed,5:00 PM,2166.13,15040.29,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Satisfied,No
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,16:00 PM,16:00 PM,Overstaffed,6:00 PM,1700.1,31000.16,"Vegetables, Dairy Products",Families,Credit Card,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,16:00 PM,16:00 PM,Overstaffed,6:00 PM,3756.6,11155.69,"Headphones, Laptops",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,19:00 PM,17:00 PM,Overstaffed,5:00 PM,1802.5,5077.07,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,12:00 PM,16:00 PM,Overstaffed,5:00 PM,1714.37,11337.01,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,14:00 PM,18:00 PM,Understaffed,4:00 PM,4291.98,17452.27,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Satisfied,No
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,18:00 PM,19:00 PM,Overstaffed,5:00 PM,5103.27,28159.08,"Tables, Chairs",Seniors,Credit Card,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,13:00 PM,17:00 PM,Overstaffed,8:00 PM,2201.6,30845.06,"Tables, Chairs",Seniors,Debit Card,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,13:00 PM,18:00 PM,Overstaffed,8:00 PM,3675.48,27295.44,"Jeans, Dresses",Young Adults,Cash,Good,Increased,Satisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,13:00 PM,20:00 PM,Overstaffed,7:00 PM,2364.8,15276.41,"Fruits, Dairy Products",Families,Credit Card,Good,Decreased,Satisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,14:00 PM,19:00 PM,Overstaffed,7:00 PM,3698.12,10065.83,"Laptops, Headphones",Professionals,Credit Card,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,17:00 PM,16:00 PM,Understaffed,8:00 PM,1932.09,37462.6,"Jeans, Dresses",Young Adults,Credit Card,Good,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,14:00 PM,21:00 PM,Understaffed,4:00 PM,3315.33,29248.3,"Smartphones, Headphones",Professionals,Debit Card,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,10:00 AM,17:00 PM,Overstaffed,4:00 PM,3784.38,14874.27,"Chairs, Sofas",Seniors,Cash,Good,Increased,Dissatisfied,No
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,17:00 PM,21:00 PM,Understaffed,8:00 PM,3640.97,35390.79,"Tables, Sofas",Seniors,Cash,Good,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,20:00 PM,21:00 PM,Understaffed,5:00 PM,2401.97,12017.28,"Fiction, Children's Books",Teens,Debit Card,Good,Decreased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,12:00 PM,17:00 PM,Understaffed,6:00 PM,3463.33,25759.19,"Jeans, Dresses",Young Adults,Digital Wallet,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,18:00 PM,16:00 PM,Understaffed,7:00 PM,899.34,27234.11,"Headphones, Smartphones",Professionals,Digital Wallet,Bad,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,14:00 PM,17:00 PM,Overstaffed,4:00 PM,3547.39,26621.15,"Chairs, Sofas",Seniors,Debit Card,Bad,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,13:00 PM,20:00 PM,Understaffed,5:00 PM,2306.8,17203.12,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Decreased,Satisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,13:00 PM,16:00 PM,Understaffed,8:00 PM,4957.99,15095.25,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,13:00 PM,21:00 PM,Overstaffed,8:00 PM,5199.46,14810.19,"Headphones, Smartphones",Professionals,Credit Card,Good,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,12:00 PM,19:00 PM,Overstaffed,5:00 PM,1577.73,31626.48,"Sofas, Chairs",Seniors,Cash,Bad,Increased,Satisfied,No
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,12:00 PM,18:00 PM,Understaffed,6:00 PM,921.69,28095.18,"Chairs, Tables",Seniors,Digital Wallet,Good,Increased,Satisfied,No
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,16:00 PM,19:00 PM,Overstaffed,5:00 PM,2107.05,20702.83,"Headphones, Laptops",Professionals,Cash,Bad,Increased,Satisfied,No
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,10:00 AM,16:00 PM,Overstaffed,8:00 PM,3689.49,18690.13,"Laptops, Smartphones",Professionals,Digital Wallet,Good,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,10:00 AM,20:00 PM,Understaffed,8:00 PM,3519.04,5214.63,"Chairs, Sofas",Seniors,Credit Card,Bad,Decreased,Satisfied,No
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,18:00 PM,16:00 PM,Understaffed,4:00 PM,3774.58,30305.77,"Non-fiction, Fiction",Teens,Credit Card,Bad,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,17:00 PM,16:00 PM,Understaffed,4:00 PM,4251.39,15533.33,"Jeans, T-shirts",Young Adults,Digital Wallet,Bad,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,13:00 PM,21:00 PM,Understaffed,8:00 PM,503.76,5400.15,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Decreased,Satisfied,No
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,11:00 AM,21:00 PM,Overstaffed,5:00 PM,3835.96,29953.54,"Vegetables, Dairy Products",Families,Debit Card,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,19:00 PM,21:00 PM,Overstaffed,8:00 PM,1617.17,10368.16,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,19:00 PM,18:00 PM,Understaffed,7:00 PM,1221.64,33518.02,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,19:00 PM,18:00 PM,Overstaffed,5:00 PM,2367.51,35041.76,"Fiction, Children's Books",Teens,Digital Wallet,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,20:00 PM,20:00 PM,Understaffed,8:00 PM,3839.89,23111.1,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Satisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,17:00 PM,16:00 PM,Overstaffed,5:00 PM,3017.04,27709.56,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,19:00 PM,18:00 PM,Overstaffed,6:00 PM,1662.9,24255.38,"Non-fiction, Children's Books",Teens,Credit Card,Good,Increased,Dissatisfied,No
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,18:00 PM,21:00 PM,Overstaffed,7:00 PM,666.08,31319.75,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,19:00 PM,17:00 PM,Understaffed,6:00 PM,706.67,25690.16,"Chairs, Sofas",Seniors,Cash,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,16:00 PM,17:00 PM,Understaffed,5:00 PM,2351.58,22688.5,"T-shirts, Dresses",Young Adults,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,17:00 PM,21:00 PM,Understaffed,7:00 PM,2275.65,29894.08,"Dresses, T-shirts",Young Adults,Digital Wallet,Good,Decreased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,17:00 PM,21:00 PM,Understaffed,8:00 PM,3465.62,6888.72,"Jeans, Dresses",Young Adults,Cash,Bad,Increased,Dissatisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,17:00 PM,20:00 PM,Understaffed,4:00 PM,3638.43,30522.51,"Fruits, Vegetables",Families,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,14:00 PM,18:00 PM,Understaffed,7:00 PM,2759.76,6187.14,"Fiction, Non-fiction",Teens,Cash,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,15:00 PM,18:00 PM,Understaffed,8:00 PM,2582.83,17596.31,"Jeans, T-shirts",Young Adults,Debit Card,Good,Decreased,Satisfied,No
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,19:00 PM,18:00 PM,Overstaffed,8:00 PM,3514.84,4129.4,"Headphones, Laptops",Professionals,Cash,Good,Increased,Satisfied,Yes
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,18:00 PM,16:00 PM,Overstaffed,7:00 PM,939.14,17787.75,"Sofas, Chairs",Seniors,Debit Card,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,18:00 PM,18:00 PM,Overstaffed,8:00 PM,3364.6,30021.47,"Dresses, T-shirts",Young Adults,Debit Card,Bad,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,10:00 AM,19:00 PM,Understaffed,4:00 PM,4007.56,29922.3,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,19:00 PM,19:00 PM,Understaffed,6:00 PM,1997.73,12081.48,"Fiction, Children's Books",Teens,Debit Card,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,17:00 PM,21:00 PM,Understaffed,5:00 PM,1865.52,15540.25,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Satisfied,Yes
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,15:00 PM,17:00 PM,Understaffed,6:00 PM,1768.13,27292.9,"Vegetables, Dairy Products",Families,Credit Card,Bad,Decreased,Satisfied,Yes
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,15:00 PM,18:00 PM,Overstaffed,6:00 PM,3572.42,10404.63,"Headphones, Laptops",Professionals,Digital Wallet,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,10:00 AM,16:00 PM,Understaffed,5:00 PM,1822.05,4932.86,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,No
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,15:00 PM,17:00 PM,Understaffed,5:00 PM,1885.82,13311.92,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,18:00 PM,21:00 PM,Understaffed,4:00 PM,4079.25,18764.53,"T-shirts, Jeans",Young Adults,Credit Card,Good,Increased,Satisfied,No
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,20:00 PM,18:00 PM,Understaffed,5:00 PM,4827.2,27703.04,"Tables, Chairs",Seniors,Credit Card,Good,Increased,Dissatisfied,No
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,16:00 PM,17:00 PM,Understaffed,8:00 PM,2086.94,30146.36,"Tables, Chairs",Seniors,Debit Card,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,17:00 PM,19:00 PM,Understaffed,8:00 PM,3034.59,27246.23,"Jeans, Dresses",Young Adults,Cash,Good,Decreased,Satisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,13:00 PM,19:00 PM,Overstaffed,7:00 PM,2487.7,16844.21,"Fruits, Dairy Products",Families,Credit Card,Good,Increased,Dissatisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,10:00 AM,21:00 PM,Understaffed,7:00 PM,3775.24,10393.29,"Laptops, Headphones",Professionals,Credit Card,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,13:00 PM,21:00 PM,Understaffed,8:00 PM,1745.87,34594.45,"Jeans, Dresses",Young Adults,Credit Card,Good,Increased,Satisfied,No
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,16:00 PM,16:00 PM,Understaffed,4:00 PM,3892.2,26054.34,"Smartphones, Headphones",Professionals,Debit Card,Bad,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,12:00 PM,16:00 PM,Overstaffed,4:00 PM,4105.79,16595.4,"Chairs, Sofas",Seniors,Cash,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,14:00 PM,21:00 PM,Understaffed,8:00 PM,3462.17,31985.32,"Tables, Sofas",Seniors,Cash,Good,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,16:00 PM,20:00 PM,Overstaffed,5:00 PM,2829.48,11872.22,"Fiction, Children's Books",Teens,Debit Card,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,18:00 PM,18:00 PM,Overstaffed,6:00 PM,3581.38,23591.8,"Jeans, Dresses",Young Adults,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,16:00 PM,17:00 PM,Overstaffed,7:00 PM,887.65,28028.39,"Headphones, Smartphones",Professionals,Digital Wallet,Bad,Decreased,Dissatisfied,No
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,19:00 PM,21:00 PM,Overstaffed,4:00 PM,3452.12,30205.0,"Chairs, Sofas",Seniors,Debit Card,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,20:00 PM,17:00 PM,Understaffed,5:00 PM,2195.38,15288.79,"Headphones, Laptops",Professionals,Digital Wallet,Good,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,16:00 PM,21:00 PM,Overstaffed,8:00 PM,4528.9,13173.12,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Decreased,Satisfied,No
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,11:00 AM,17:00 PM,Understaffed,8:00 PM,4630.64,14770.54,"Headphones, Smartphones",Professionals,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,10:00 AM,18:00 PM,Understaffed,5:00 PM,1568.72,32026.32,"Sofas, Chairs",Seniors,Cash,Bad,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,19:00 PM,17:00 PM,Overstaffed,6:00 PM,942.85,31446.29,"Chairs, Tables",Seniors,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,17:00 PM,21:00 PM,Understaffed,5:00 PM,2317.92,22282.14,"Headphones, Laptops",Professionals,Cash,Good,Decreased,Dissatisfied,No
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,10:00 AM,18:00 PM,Understaffed,8:00 PM,3264.17,20099.25,"Laptops, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,13:00 PM,17:00 PM,Understaffed,8:00 PM,3661.7,4851.91,"Chairs, Sofas",Seniors,Credit Card,Good,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,10:00 AM,18:00 PM,Overstaffed,4:00 PM,3878.42,31470.8,"Non-fiction, Fiction",Teens,Credit Card,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,15:00 PM,19:00 PM,Understaffed,4:00 PM,4109.49,14882.45,"Jeans, T-shirts",Young Adults,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,17:00 PM,17:00 PM,Understaffed,8:00 PM,546.71,4653.67,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Dissatisfied,No
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,19:00 PM,17:00 PM,Understaffed,5:00 PM,4344.06,27699.17,"Vegetables, Dairy Products",Families,Debit Card,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,15:00 PM,19:00 PM,Understaffed,8:00 PM,1586.65,10139.77,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,10:00 AM,16:00 PM,Overstaffed,7:00 PM,1216.87,31353.65,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,10:00 AM,21:00 PM,Overstaffed,5:00 PM,2828.25,30864.73,"Fiction, Children's Books",Teens,Digital Wallet,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,19:00 PM,18:00 PM,Understaffed,8:00 PM,3725.09,27104.84,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Decreased,Satisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,13:00 PM,20:00 PM,Overstaffed,5:00 PM,3206.32,27208.46,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,16:00 PM,16:00 PM,Understaffed,6:00 PM,1952.23,23620.5,"Non-fiction, Children's Books",Teens,Credit Card,Good,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,13:00 PM,17:00 PM,Overstaffed,7:00 PM,647.19,33010.04,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Increased,Satisfied,No
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,20:00 PM,21:00 PM,Understaffed,6:00 PM,611.92,28198.84,"Chairs, Sofas",Seniors,Cash,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,15:00 PM,18:00 PM,Understaffed,5:00 PM,2286.33,21758.98,"T-shirts, Dresses",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,13:00 PM,19:00 PM,Overstaffed,7:00 PM,2448.46,33381.5,"Dresses, T-shirts",Young Adults,Digital Wallet,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,11:00 AM,17:00 PM,Understaffed,8:00 PM,3296.12,6835.48,"Jeans, Dresses",Young Adults,Cash,Bad,Increased,Dissatisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,20:00 PM,19:00 PM,Understaffed,4:00 PM,3637.33,30116.75,"Fruits, Vegetables",Families,Credit Card,Good,Decreased,Satisfied,No
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,12:00 PM,18:00 PM,Understaffed,7:00 PM,2714.15,6186.77,"Fiction, Non-fiction",Teens,Cash,Bad,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,16:00 PM,19:00 PM,Overstaffed,8:00 PM,2463.55,19436.47,"Jeans, T-shirts",Young Adults,Debit Card,Bad,Decreased,Satisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,19:00 PM,18:00 PM,Overstaffed,8:00 PM,3778.52,3865.03,"Headphones, Laptops",Professionals,Cash,Good,Increased,Satisfied,Yes
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,15:00 PM,16:00 PM,Understaffed,7:00 PM,989.3,15753.21,"Sofas, Chairs",Seniors,Debit Card,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,14:00 PM,20:00 PM,Overstaffed,8:00 PM,3347.87,30584.45,"Dresses, T-shirts",Young Adults,Debit Card,Good,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,15:00 PM,16:00 PM,Understaffed,4:00 PM,3708.76,28138.64,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,14:00 PM,16:00 PM,Understaffed,6:00 PM,2290.37,12045.62,"Fiction, Children's Books",Teens,Debit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,19:00 PM,19:00 PM,Understaffed,5:00 PM,2197.73,16655.58,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Satisfied,No
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,16:00 PM,18:00 PM,Overstaffed,6:00 PM,1909.69,31187.57,"Vegetables, Dairy Products",Families,Credit Card,Bad,Decreased,Satisfied,No
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,13:00 PM,17:00 PM,Understaffed,6:00 PM,3339.5,11655.49,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Satisfied,No
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,16:00 PM,19:00 PM,Understaffed,5:00 PM,1826.49,5156.53,"Headphones, Smartphones",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,15:00 PM,19:00 PM,Understaffed,5:00 PM,1687.23,11446.81,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,15:00 PM,18:00 PM,Understaffed,4:00 PM,4303.9,17175.04,"T-shirts, Jeans",Young Adults,Credit Card,Good,Increased,Dissatisfied,No
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,20:00 PM,17:00 PM,Understaffed,5:00 PM,5099.33,30101.45,"Tables, Chairs",Seniors,Credit Card,Bad,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,14:00 PM,21:00 PM,Overstaffed,8:00 PM,2129.73,28068.59,"Tables, Chairs",Seniors,Debit Card,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,11:00 AM,16:00 PM,Overstaffed,8:00 PM,3555.25,27240.94,"Jeans, Dresses",Young Adults,Cash,Bad,Decreased,Dissatisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,18:00 PM,21:00 PM,Overstaffed,7:00 PM,2297.07,18154.58,"Fruits, Dairy Products",Families,Credit Card,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,18:00 PM,21:00 PM,Understaffed,7:00 PM,4255.68,10115.66,"Laptops, Headphones",Professionals,Credit Card,Good,Decreased,Satisfied,No
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,14:00 PM,20:00 PM,Understaffed,8:00 PM,1766.91,33820.98,"Jeans, Dresses",Young Adults,Credit Card,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,17:00 PM,18:00 PM,Understaffed,4:00 PM,3292.47,27140.63,"Smartphones, Headphones",Professionals,Debit Card,Good,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,11:00 AM,16:00 PM,Overstaffed,4:00 PM,3695.52,16041.54,"Chairs, Sofas",Seniors,Cash,Good,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,11:00 AM,19:00 PM,Overstaffed,8:00 PM,3841.94,37752.54,"Tables, Sofas",Seniors,Cash,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,17:00 PM,19:00 PM,Overstaffed,5:00 PM,2450.01,11885.16,"Fiction, Children's Books",Teens,Debit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,11:00 AM,21:00 PM,Overstaffed,6:00 PM,3564.9,25139.41,"Jeans, Dresses",Young Adults,Digital Wallet,Bad,Increased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,15:00 PM,18:00 PM,Understaffed,7:00 PM,820.41,26813.2,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Increased,Satisfied,No
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,16:00 PM,18:00 PM,Overstaffed,4:00 PM,2998.21,27429.18,"Chairs, Sofas",Seniors,Debit Card,Good,Increased,Dissatisfied,No
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,19:00 PM,16:00 PM,Understaffed,5:00 PM,2317.86,15232.64,"Headphones, Laptops",Professionals,Digital Wallet,Good,Increased,Satisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,14:00 PM,17:00 PM,Overstaffed,8:00 PM,4461.54,14742.88,"Headphones, Laptops",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,13:00 PM,17:00 PM,Overstaffed,8:00 PM,4395.77,16670.55,"Headphones, Smartphones",Professionals,Credit Card,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,10:00 AM,17:00 PM,Understaffed,5:00 PM,1407.67,35462.07,"Sofas, Chairs",Seniors,Cash,Good,Increased,Dissatisfied,No
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,11:00 AM,20:00 PM,Understaffed,6:00 PM,1037.04,32510.01,"Chairs, Tables",Seniors,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,17:00 PM,21:00 PM,Understaffed,5:00 PM,2138.51,20358.97,"Headphones, Laptops",Professionals,Cash,Bad,Increased,Satisfied,No
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,13:00 PM,19:00 PM,Overstaffed,8:00 PM,3305.86,17621.53,"Laptops, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,18:00 PM,20:00 PM,Understaffed,8:00 PM,3887.57,4973.33,"Chairs, Sofas",Seniors,Credit Card,Good,Increased,Satisfied,Yes
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,18:00 PM,19:00 PM,Overstaffed,4:00 PM,4011.8,34037.9,"Non-fiction, Fiction",Teens,Credit Card,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,10:00 AM,19:00 PM,Understaffed,4:00 PM,4116.22,17070.49,"Jeans, T-shirts",Young Adults,Digital Wallet,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,10:00 AM,18:00 PM,Understaffed,8:00 PM,576.77,5482.15,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Satisfied,Yes
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,15:00 PM,18:00 PM,Understaffed,5:00 PM,3996.9,26830.03,"Vegetables, Dairy Products",Families,Debit Card,Good,Decreased,Satisfied,No
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,11:00 AM,19:00 PM,Understaffed,8:00 PM,1835.54,10115.28,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,19:00 PM,19:00 PM,Overstaffed,7:00 PM,1290.43,28129.91,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,10:00 AM,19:00 PM,Understaffed,5:00 PM,2820.39,33906.97,"Fiction, Children's Books",Teens,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,17:00 PM,18:00 PM,Understaffed,8:00 PM,3542.3,23578.42,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,15:00 PM,17:00 PM,Overstaffed,5:00 PM,3137.47,29855.52,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,10:00 AM,18:00 PM,Understaffed,6:00 PM,1910.73,24903.13,"Non-fiction, Children's Books",Teens,Credit Card,Bad,Decreased,Satisfied,No
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,16:00 PM,21:00 PM,Overstaffed,7:00 PM,649.05,32940.11,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,14:00 PM,16:00 PM,Understaffed,6:00 PM,710.86,27566.53,"Chairs, Sofas",Seniors,Cash,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,14:00 PM,16:00 PM,Overstaffed,5:00 PM,2185.73,21105.44,"T-shirts, Dresses",Young Adults,Digital Wallet,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,11:00 AM,18:00 PM,Overstaffed,7:00 PM,2614.63,31455.16,"Dresses, T-shirts",Young Adults,Digital Wallet,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,16:00 PM,18:00 PM,Understaffed,8:00 PM,3577.27,6821.0,"Jeans, Dresses",Young Adults,Cash,Bad,Increased,Satisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,11:00 AM,20:00 PM,Understaffed,4:00 PM,3515.93,29229.78,"Fruits, Vegetables",Families,Credit Card,Good,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,13:00 PM,20:00 PM,Overstaffed,7:00 PM,2828.67,5923.96,"Fiction, Non-fiction",Teens,Cash,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,14:00 PM,21:00 PM,Understaffed,8:00 PM,2462.56,20663.89,"Jeans, T-shirts",Young Adults,Debit Card,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,10:00 AM,16:00 PM,Overstaffed,8:00 PM,3933.05,4324.66,"Headphones, Laptops",Professionals,Cash,Bad,Increased,Dissatisfied,No
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,12:00 PM,21:00 PM,Overstaffed,7:00 PM,885.57,17013.23,"Sofas, Chairs",Seniors,Debit Card,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,11:00 AM,20:00 PM,Overstaffed,8:00 PM,3097.24,32078.98,"Dresses, T-shirts",Young Adults,Debit Card,Good,Increased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,14:00 PM,17:00 PM,Overstaffed,4:00 PM,3550.21,29133.79,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,19:00 PM,21:00 PM,Understaffed,6:00 PM,2002.79,12400.37,"Fiction, Children's Books",Teens,Debit Card,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,20:00 PM,16:00 PM,Understaffed,5:00 PM,2080.4,15321.61,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Satisfied,No
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,16:00 PM,19:00 PM,Understaffed,6:00 PM,1871.6,30205.52,"Vegetables, Dairy Products",Families,Credit Card,Good,Increased,Satisfied,Yes
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,15:00 PM,20:00 PM,Understaffed,6:00 PM,3107.66,10953.32,"Headphones, Laptops",Professionals,Digital Wallet,Good,Increased,Satisfied,No
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,13:00 PM,19:00 PM,Understaffed,5:00 PM,1591.29,4805.95,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,19:00 PM,17:00 PM,Overstaffed,5:00 PM,1706.22,12258.04,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,15:00 PM,16:00 PM,Understaffed,4:00 PM,4283.79,19801.79,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,13:00 PM,20:00 PM,Overstaffed,5:00 PM,4614.66,31796.64,"Tables, Chairs",Seniors,Credit Card,Bad,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,16:00 PM,19:00 PM,Overstaffed,8:00 PM,2255.83,30205.75,"Tables, Chairs",Seniors,Debit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,12:00 PM,21:00 PM,Understaffed,8:00 PM,3239.73,27181.68,"Jeans, Dresses",Young Adults,Cash,Bad,Decreased,Dissatisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,10:00 AM,20:00 PM,Overstaffed,7:00 PM,2523.85,16748.68,"Fruits, Dairy Products",Families,Credit Card,Good,Increased,Satisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,16:00 PM,17:00 PM,Overstaffed,7:00 PM,3636.12,8958.45,"Laptops, Headphones",Professionals,Credit Card,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,15:00 PM,18:00 PM,Understaffed,8:00 PM,1887.98,35123.9,"Jeans, Dresses",Young Adults,Credit Card,Good,Increased,Dissatisfied,No
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,20:00 PM,17:00 PM,Understaffed,4:00 PM,3704.54,24954.96,"Smartphones, Headphones",Professionals,Debit Card,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,16:00 PM,17:00 PM,Overstaffed,4:00 PM,3950.08,13868.5,"Chairs, Sofas",Seniors,Cash,Bad,Increased,Dissatisfied,No
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,20:00 PM,20:00 PM,Overstaffed,8:00 PM,3800.93,32044.28,"Tables, Sofas",Seniors,Cash,Good,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,12:00 PM,18:00 PM,Overstaffed,5:00 PM,2348.05,10634.19,"Fiction, Children's Books",Teens,Debit Card,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,10:00 AM,20:00 PM,Overstaffed,6:00 PM,3178.01,25818.86,"Jeans, Dresses",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,No
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,10:00 AM,20:00 PM,Overstaffed,7:00 PM,869.49,29766.97,"Headphones, Smartphones",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,12:00 PM,20:00 PM,Overstaffed,4:00 PM,2988.83,28906.71,"Chairs, Sofas",Seniors,Debit Card,Good,Decreased,Dissatisfied,No
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,15:00 PM,20:00 PM,Understaffed,5:00 PM,2437.02,14923.64,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,17:00 PM,18:00 PM,Overstaffed,8:00 PM,4280.91,15376.59,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,14:00 PM,17:00 PM,Understaffed,8:00 PM,5159.45,15395.05,"Headphones, Smartphones",Professionals,Credit Card,Bad,Decreased,Satisfied,No
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,19:00 PM,18:00 PM,Overstaffed,5:00 PM,1465.81,35290.69,"Sofas, Chairs",Seniors,Cash,Bad,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,10:00 AM,16:00 PM,Overstaffed,6:00 PM,1028.74,29506.6,"Chairs, Tables",Seniors,Digital Wallet,Bad,Decreased,Satisfied,Yes
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,15:00 PM,19:00 PM,Understaffed,5:00 PM,2178.6,21989.62,"Headphones, Laptops",Professionals,Cash,Good,Increased,Satisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,14:00 PM,20:00 PM,Understaffed,8:00 PM,3521.32,18257.22,"Laptops, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,13:00 PM,18:00 PM,Overstaffed,8:00 PM,3907.16,5035.31,"Chairs, Sofas",Seniors,Credit Card,Bad,Decreased,Satisfied,Yes
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,10:00 AM,19:00 PM,Overstaffed,4:00 PM,3867.08,31740.63,"Non-fiction, Fiction",Teens,Credit Card,Bad,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,17:00 PM,18:00 PM,Overstaffed,4:00 PM,4135.59,16909.55,"Jeans, T-shirts",Young Adults,Digital Wallet,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,15:00 PM,16:00 PM,Understaffed,8:00 PM,509.96,4958.82,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Increased,Satisfied,Yes
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,11:00 AM,19:00 PM,Overstaffed,5:00 PM,4025.79,26409.2,"Vegetables, Dairy Products",Families,Debit Card,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,15:00 PM,20:00 PM,Understaffed,8:00 PM,1645.52,10227.3,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,12:00 PM,19:00 PM,Overstaffed,7:00 PM,1216.79,33947.58,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Dissatisfied,No
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,18:00 PM,18:00 PM,Understaffed,5:00 PM,2808.09,29467.23,"Fiction, Children's Books",Teens,Digital Wallet,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,14:00 PM,19:00 PM,Overstaffed,8:00 PM,3831.54,26568.17,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,13:00 PM,21:00 PM,Overstaffed,5:00 PM,3015.7,26580.92,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,11:00 AM,19:00 PM,Understaffed,6:00 PM,1905.6,23595.21,"Non-fiction, Children's Books",Teens,Credit Card,Good,Decreased,Satisfied,No
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,19:00 PM,19:00 PM,Overstaffed,7:00 PM,594.43,31403.13,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,15:00 PM,21:00 PM,Overstaffed,6:00 PM,598.17,24045.48,"Chairs, Sofas",Seniors,Cash,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,13:00 PM,20:00 PM,Overstaffed,5:00 PM,2292.95,21358.97,"T-shirts, Dresses",Young Adults,Digital Wallet,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,14:00 PM,20:00 PM,Understaffed,7:00 PM,2544.52,32966.24,"Dresses, T-shirts",Young Adults,Digital Wallet,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,11:00 AM,18:00 PM,Understaffed,8:00 PM,3537.88,7900.17,"Jeans, Dresses",Young Adults,Cash,Good,Increased,Dissatisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,15:00 PM,16:00 PM,Overstaffed,4:00 PM,3643.49,33183.5,"Fruits, Vegetables",Families,Credit Card,Good,Increased,Dissatisfied,No
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,15:00 PM,19:00 PM,Overstaffed,7:00 PM,2645.3,6260.07,"Fiction, Non-fiction",Teens,Cash,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,10:00 AM,17:00 PM,Understaffed,8:00 PM,2813.12,19102.88,"Jeans, T-shirts",Young Adults,Debit Card,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,18:00 PM,19:00 PM,Overstaffed,8:00 PM,3755.53,3929.66,"Headphones, Laptops",Professionals,Cash,Bad,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,15:00 PM,20:00 PM,Overstaffed,7:00 PM,891.81,15533.51,"Sofas, Chairs",Seniors,Debit Card,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,16:00 PM,19:00 PM,Overstaffed,8:00 PM,2965.25,27813.18,"Dresses, T-shirts",Young Adults,Debit Card,Bad,Increased,Dissatisfied,No
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,19:00 PM,18:00 PM,Overstaffed,4:00 PM,3804.83,28218.03,"Children's Books, Non-fiction",Teens,Credit Card,Good,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,20:00 PM,20:00 PM,Overstaffed,6:00 PM,2123.09,13266.18,"Fiction, Children's Books",Teens,Debit Card,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,11:00 AM,18:00 PM,Understaffed,5:00 PM,1868.89,15097.07,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Satisfied,No
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,16:00 PM,19:00 PM,Understaffed,6:00 PM,1873.61,26479.2,"Vegetables, Dairy Products",Families,Credit Card,Bad,Decreased,Satisfied,No
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,13:00 PM,21:00 PM,Understaffed,6:00 PM,3536.61,9692.56,"Headphones, Laptops",Professionals,Digital Wallet,Good,Increased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,20:00 PM,19:00 PM,Understaffed,5:00 PM,1791.55,5153.58,"Headphones, Smartphones",Professionals,Digital Wallet,Bad,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,15:00 PM,19:00 PM,Overstaffed,5:00 PM,1843.15,13498.81,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,15:00 PM,16:00 PM,Overstaffed,4:00 PM,4107.85,18972.0,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,11:00 AM,19:00 PM,Overstaffed,5:00 PM,4803.51,30525.73,"Tables, Chairs",Seniors,Credit Card,Bad,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,15:00 PM,16:00 PM,Overstaffed,8:00 PM,1964.24,30379.49,"Tables, Chairs",Seniors,Debit Card,Good,Decreased,Satisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,13:00 PM,21:00 PM,Overstaffed,8:00 PM,3155.06,27493.24,"Jeans, Dresses",Young Adults,Cash,Bad,Decreased,Satisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,20:00 PM,18:00 PM,Understaffed,7:00 PM,2442.09,18028.15,"Fruits, Dairy Products",Families,Credit Card,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,10:00 AM,17:00 PM,Overstaffed,7:00 PM,3998.65,9113.5,"Laptops, Headphones",Professionals,Credit Card,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,10:00 AM,18:00 PM,Overstaffed,8:00 PM,1779.82,36819.71,"Jeans, Dresses",Young Adults,Credit Card,Bad,Decreased,Dissatisfied,No
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,10:00 AM,18:00 PM,Overstaffed,4:00 PM,3902.58,25531.43,"Smartphones, Headphones",Professionals,Debit Card,Good,Decreased,Dissatisfied,No
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,12:00 PM,19:00 PM,Overstaffed,4:00 PM,4340.89,16357.25,"Chairs, Sofas",Seniors,Cash,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,10:00 AM,19:00 PM,Overstaffed,8:00 PM,3935.76,31362.6,"Tables, Sofas",Seniors,Cash,Bad,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,16:00 PM,21:00 PM,Overstaffed,5:00 PM,2452.85,12356.07,"Fiction, Children's Books",Teens,Debit Card,Bad,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,17:00 PM,16:00 PM,Overstaffed,6:00 PM,3573.3,25978.74,"Jeans, Dresses",Young Adults,Digital Wallet,Bad,Increased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,15:00 PM,19:00 PM,Understaffed,7:00 PM,753.05,28006.07,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,17:00 PM,18:00 PM,Understaffed,4:00 PM,3276.63,30635.02,"Chairs, Sofas",Seniors,Debit Card,Bad,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,19:00 PM,17:00 PM,Overstaffed,5:00 PM,2366.36,14894.57,"Headphones, Laptops",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,16:00 PM,19:00 PM,Understaffed,8:00 PM,4201.8,12960.28,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Satisfied,Yes
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,13:00 PM,17:00 PM,Overstaffed,8:00 PM,4500.22,17038.59,"Headphones, Smartphones",Professionals,Credit Card,Bad,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,13:00 PM,17:00 PM,Overstaffed,5:00 PM,1633.07,31839.16,"Sofas, Chairs",Seniors,Cash,Bad,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,19:00 PM,20:00 PM,Understaffed,6:00 PM,949.49,33582.06,"Chairs, Tables",Seniors,Digital Wallet,Good,Increased,Dissatisfied,No
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,17:00 PM,18:00 PM,Overstaffed,5:00 PM,2307.27,21315.13,"Headphones, Laptops",Professionals,Cash,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,13:00 PM,18:00 PM,Understaffed,8:00 PM,3734.44,17950.22,"Laptops, Smartphones",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,16:00 PM,16:00 PM,Overstaffed,8:00 PM,4069.67,5544.81,"Chairs, Sofas",Seniors,Credit Card,Good,Increased,Satisfied,Yes
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,18:00 PM,20:00 PM,Understaffed,4:00 PM,3470.32,31015.8,"Non-fiction, Fiction",Teens,Credit Card,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,15:00 PM,21:00 PM,Understaffed,4:00 PM,4303.21,17190.07,"Jeans, T-shirts",Young Adults,Digital Wallet,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,19:00 PM,18:00 PM,Overstaffed,8:00 PM,494.54,5299.69,"Dresses, Jeans",Young Adults,Digital Wallet,Bad,Increased,Dissatisfied,No
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,11:00 AM,21:00 PM,Understaffed,5:00 PM,4397.82,30066.85,"Vegetables, Dairy Products",Families,Debit Card,Bad,Decreased,Satisfied,No
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,16:00 PM,19:00 PM,Overstaffed,8:00 PM,1788.84,9890.91,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,14:00 PM,19:00 PM,Understaffed,7:00 PM,1238.51,30754.44,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,20:00 PM,21:00 PM,Understaffed,5:00 PM,2572.56,30053.13,"Fiction, Children's Books",Teens,Digital Wallet,Good,Decreased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,18:00 PM,19:00 PM,Understaffed,8:00 PM,3556.49,27110.05,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,19:00 PM,19:00 PM,Understaffed,5:00 PM,2892.59,26193.77,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Dissatisfied,No
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,14:00 PM,18:00 PM,Understaffed,6:00 PM,1751.97,24012.5,"Non-fiction, Children's Books",Teens,Credit Card,Good,Increased,Dissatisfied,No
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,20:00 PM,19:00 PM,Overstaffed,7:00 PM,619.24,35035.15,"Fiction, Non-fiction",Teens,Digital Wallet,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,20:00 PM,20:00 PM,Overstaffed,6:00 PM,613.42,24657.1,"Chairs, Sofas",Seniors,Cash,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,11:00 AM,20:00 PM,Understaffed,5:00 PM,2299.64,24420.9,"T-shirts, Dresses",Young Adults,Digital Wallet,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,17:00 PM,18:00 PM,Understaffed,7:00 PM,2671.32,29297.41,"Dresses, T-shirts",Young Adults,Digital Wallet,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,10:00 AM,16:00 PM,Overstaffed,8:00 PM,3154.6,7072.86,"Jeans, Dresses",Young Adults,Cash,Good,Decreased,Dissatisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,19:00 PM,21:00 PM,Understaffed,4:00 PM,3281.77,31442.04,"Fruits, Vegetables",Families,Credit Card,Good,Increased,Dissatisfied,No
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,11:00 AM,20:00 PM,Understaffed,7:00 PM,2827.0,5550.23,"Fiction, Non-fiction",Teens,Cash,Good,Decreased,Satisfied,No
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,19:00 PM,17:00 PM,Understaffed,8:00 PM,2521.07,19733.57,"Jeans, T-shirts",Young Adults,Debit Card,Bad,Decreased,Satisfied,No
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,11:00 AM,17:00 PM,Overstaffed,8:00 PM,3829.37,4599.65,"Headphones, Laptops",Professionals,Cash,Good,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,12:00 PM,21:00 PM,Overstaffed,7:00 PM,1003.13,14836.13,"Sofas, Chairs",Seniors,Debit Card,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,18:00 PM,18:00 PM,Overstaffed,8:00 PM,2835.3,31001.72,"Dresses, T-shirts",Young Adults,Debit Card,Good,Increased,Dissatisfied,No
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,16:00 PM,19:00 PM,Understaffed,4:00 PM,3548.74,27125.95,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,16:00 PM,16:00 PM,Understaffed,6:00 PM,2349.73,13180.43,"Fiction, Children's Books",Teens,Debit Card,Bad,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,15:00 PM,21:00 PM,Understaffed,5:00 PM,1855.08,14281.65,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Decreased,Dissatisfied,No
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,12:00 PM,17:00 PM,Understaffed,6:00 PM,1905.25,27511.56,"Vegetables, Dairy Products",Families,Credit Card,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,12:00 PM,17:00 PM,Overstaffed,6:00 PM,3132.57,10008.71,"Headphones, Laptops",Professionals,Digital Wallet,Good,Decreased,Satisfied,No
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,17:00 PM,17:00 PM,Understaffed,5:00 PM,1599.24,4752.71,"Headphones, Smartphones",Professionals,Digital Wallet,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,16:00 PM,21:00 PM,Understaffed,5:00 PM,1701.67,11898.78,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,20:00 PM,20:00 PM,Understaffed,4:00 PM,3861.5,17395.8,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,19:00 PM,17:00 PM,Overstaffed,5:00 PM,4948.25,31711.97,"Tables, Chairs",Seniors,Credit Card,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,11:00 AM,18:00 PM,Understaffed,8:00 PM,2260.98,31069.27,"Tables, Chairs",Seniors,Debit Card,Good,Decreased,Satisfied,Yes
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,15:00 PM,18:00 PM,Understaffed,8:00 PM,3471.82,23293.98,"Jeans, Dresses",Young Adults,Cash,Bad,Increased,Dissatisfied,Yes
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,19:00 PM,16:00 PM,Understaffed,7:00 PM,2535.82,16757.46,"Fruits, Dairy Products",Families,Credit Card,Bad,Decreased,Satisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,16:00 PM,18:00 PM,Understaffed,7:00 PM,4380.72,8986.29,"Laptops, Headphones",Professionals,Credit Card,Good,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,15:00 PM,19:00 PM,Understaffed,8:00 PM,1780.89,35424.55,"Jeans, Dresses",Young Adults,Credit Card,Bad,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,20:00 PM,20:00 PM,Overstaffed,4:00 PM,3704.64,30415.86,"Smartphones, Headphones",Professionals,Debit Card,Bad,Increased,Dissatisfied,No
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,13:00 PM,16:00 PM,Overstaffed,4:00 PM,4269.91,16207.92,"Chairs, Sofas",Seniors,Cash,Bad,Increased,Satisfied,No
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,18:00 PM,20:00 PM,Understaffed,8:00 PM,3816.0,35274.37,"Tables, Sofas",Seniors,Cash,Bad,Increased,Satisfied,Yes
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,19:00 PM,20:00 PM,Understaffed,5:00 PM,2707.76,12617.45,"Fiction, Children's Books",Teens,Debit Card,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,20:00 PM,19:00 PM,Understaffed,6:00 PM,3590.35,25656.38,"Jeans, Dresses",Young Adults,Digital Wallet,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,18:00 PM,17:00 PM,Understaffed,7:00 PM,777.52,31258.21,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,16:00 PM,17:00 PM,Understaffed,4:00 PM,3393.5,26460.52,"Chairs, Sofas",Seniors,Debit Card,Bad,Decreased,Satisfied,No
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,13:00 PM,16:00 PM,Understaffed,5:00 PM,2531.0,14359.81,"Headphones, Laptops",Professionals,Digital Wallet,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,18:00 PM,16:00 PM,Understaffed,8:00 PM,4729.38,14922.37,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Decreased,Satisfied,No
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,13:00 PM,20:00 PM,Overstaffed,8:00 PM,4944.58,14402.19,"Headphones, Smartphones",Professionals,Credit Card,Good,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,16:00 PM,18:00 PM,Overstaffed,5:00 PM,1675.28,31178.59,"Sofas, Chairs",Seniors,Cash,Good,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,10:00 AM,16:00 PM,Overstaffed,6:00 PM,1005.75,31124.61,"Chairs, Tables",Seniors,Digital Wallet,Bad,Decreased,Dissatisfied,No
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,14:00 PM,18:00 PM,Understaffed,5:00 PM,2414.47,20123.83,"Headphones, Laptops",Professionals,Cash,Good,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,10:00 AM,16:00 PM,Understaffed,8:00 PM,3745.5,20553.61,"Laptops, Smartphones",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,14:00 PM,19:00 PM,Understaffed,8:00 PM,3901.59,5656.51,"Chairs, Sofas",Seniors,Credit Card,Good,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,16:00 PM,20:00 PM,Overstaffed,4:00 PM,3487.46,34230.52,"Non-fiction, Fiction",Teens,Credit Card,Good,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,20:00 PM,18:00 PM,Overstaffed,4:00 PM,4244.14,14132.52,"Jeans, T-shirts",Young Adults,Digital Wallet,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,15:00 PM,18:00 PM,Understaffed,8:00 PM,562.25,5146.03,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,No
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,19:00 PM,20:00 PM,Understaffed,5:00 PM,4096.28,28346.69,"Vegetables, Dairy Products",Families,Debit Card,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,10:00 AM,17:00 PM,Understaffed,8:00 PM,1697.98,10671.51,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,16:00 PM,19:00 PM,Understaffed,7:00 PM,1257.38,33053.63,"T-shirts, Jeans",Young Adults,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,14:00 PM,21:00 PM,Overstaffed,5:00 PM,2853.72,30105.99,"Fiction, Children's Books",Teens,Digital Wallet,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Melbourne,9:00 AM,8:00 PM,19:00 PM,19:00 PM,Overstaffed,8:00 PM,3960.08,24119.51,"T-shirts, Jeans",Young Adults,Credit Card,Good,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Brisbane,9:00 AM,10:00 PM,18:00 PM,16:00 PM,Overstaffed,5:00 PM,2752.16,28001.48,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,20:00 PM,20:00 PM,Understaffed,6:00 PM,1870.24,24301.26,"Non-fiction, Children's Books",Teens,Credit Card,Good,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Melbourne,9:00 AM,6:00 PM,13:00 PM,18:00 PM,Understaffed,7:00 PM,623.52,32100.75,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,8:00 PM,14:00 PM,17:00 PM,Understaffed,6:00 PM,692.66,25550.29,"Chairs, Sofas",Seniors,Cash,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Adelaide,10:00 AM,8:00 PM,13:00 PM,20:00 PM,Overstaffed,5:00 PM,1985.68,24467.4,"T-shirts, Dresses",Young Adults,Digital Wallet,Bad,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Brisbane,8:00 AM,10:00 PM,13:00 PM,19:00 PM,Overstaffed,7:00 PM,2338.03,29613.76,"Dresses, T-shirts",Young Adults,Digital Wallet,Bad,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,14:00 PM,19:00 PM,Overstaffed,8:00 PM,3109.45,8030.57,"Jeans, Dresses",Young Adults,Cash,Good,Decreased,Satisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,9:00 PM,15:00 PM,17:00 PM,Overstaffed,4:00 PM,3285.79,33477.96,"Fruits, Vegetables",Families,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Bookstore,Book Nook,Melbourne,10:00 AM,8:00 PM,11:00 AM,20:00 PM,Understaffed,7:00 PM,2520.94,6179.68,"Fiction, Non-fiction",Teens,Cash,Good,Decreased,Dissatisfied,Yes
+Clothing,Fashion Hub,Brisbane,10:00 AM,8:00 PM,11:00 AM,17:00 PM,Overstaffed,8:00 PM,2790.37,19806.39,"Jeans, T-shirts",Young Adults,Debit Card,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Perth,8:00 AM,7:00 PM,17:00 PM,18:00 PM,Understaffed,8:00 PM,3724.27,4252.24,"Headphones, Laptops",Professionals,Cash,Bad,Increased,Dissatisfied,Yes
+Furniture,Home Essentials,Brisbane,8:00 AM,7:00 PM,17:00 PM,18:00 PM,Overstaffed,7:00 PM,1024.01,14811.34,"Sofas, Chairs",Seniors,Debit Card,Good,Decreased,Dissatisfied,No
+Clothing,Fashion Hub,Perth,8:00 AM,6:00 PM,12:00 PM,18:00 PM,Overstaffed,8:00 PM,3155.85,26649.55,"Dresses, T-shirts",Young Adults,Debit Card,Good,Increased,Satisfied,Yes
+Bookstore,Book Nook,Adelaide,7:00 AM,7:00 PM,20:00 PM,18:00 PM,Understaffed,4:00 PM,3376.28,25819.48,"Children's Books, Non-fiction",Teens,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Adelaide,8:00 AM,9:00 PM,15:00 PM,20:00 PM,Overstaffed,6:00 PM,2204.73,13300.46,"Fiction, Children's Books",Teens,Debit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,10:00 PM,10:00 AM,16:00 PM,Overstaffed,5:00 PM,1867.31,14895.36,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Satisfied,Yes
+Grocery,Green Grocers,Melbourne,9:00 AM,6:00 PM,18:00 PM,17:00 PM,Overstaffed,6:00 PM,1646.03,27356.12,"Vegetables, Dairy Products",Families,Credit Card,Bad,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Melbourne,9:00 AM,6:00 PM,15:00 PM,18:00 PM,Overstaffed,6:00 PM,3174.28,11530.71,"Headphones, Laptops",Professionals,Digital Wallet,Good,Increased,Satisfied,Yes
+Electronics,Tech Store,Adelaide,8:00 AM,8:00 PM,10:00 AM,17:00 PM,Understaffed,5:00 PM,1775.36,5239.71,"Headphones, Smartphones",Professionals,Digital Wallet,Good,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Perth,10:00 AM,7:00 PM,20:00 PM,16:00 PM,Understaffed,5:00 PM,1553.78,12574.91,"Fiction, Non-fiction",Teens,Digital Wallet,Bad,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Adelaide,7:00 AM,9:00 PM,13:00 PM,20:00 PM,Understaffed,4:00 PM,4466.48,19771.71,"T-shirts, Jeans",Young Adults,Credit Card,Good,Decreased,Satisfied,No
+Furniture,Home Essentials,Melbourne,8:00 AM,9:00 PM,14:00 PM,19:00 PM,Overstaffed,5:00 PM,4509.21,27761.9,"Tables, Chairs",Seniors,Credit Card,Good,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Sydney,10:00 AM,7:00 PM,12:00 PM,18:00 PM,Understaffed,8:00 PM,2052.93,30254.49,"Tables, Chairs",Seniors,Debit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Sydney,10:00 AM,9:00 PM,15:00 PM,19:00 PM,Overstaffed,8:00 PM,3358.94,26550.95,"Jeans, Dresses",Young Adults,Cash,Good,Decreased,Satisfied,No
+Grocery,Green Grocers,Brisbane,7:00 AM,8:00 PM,12:00 PM,21:00 PM,Overstaffed,7:00 PM,2259.06,16979.68,"Fruits, Dairy Products",Families,Credit Card,Bad,Decreased,Satisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,13:00 PM,18:00 PM,Understaffed,7:00 PM,3678.26,9569.61,"Laptops, Headphones",Professionals,Credit Card,Bad,Increased,Satisfied,No
+Clothing,Fashion Hub,Perth,9:00 AM,7:00 PM,19:00 PM,21:00 PM,Understaffed,8:00 PM,1898.82,34663.96,"Jeans, Dresses",Young Adults,Credit Card,Bad,Decreased,Dissatisfied,No
+Electronics,Tech Store,Sydney,7:00 AM,8:00 PM,17:00 PM,21:00 PM,Understaffed,4:00 PM,3306.64,26968.82,"Smartphones, Headphones",Professionals,Debit Card,Bad,Decreased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,7:00 AM,7:00 PM,19:00 PM,21:00 PM,Overstaffed,4:00 PM,4282.86,15404.28,"Chairs, Sofas",Seniors,Cash,Good,Increased,Satisfied,No
+Furniture,Home Essentials,Adelaide,8:00 AM,7:00 PM,16:00 PM,17:00 PM,Overstaffed,8:00 PM,3714.15,37099.64,"Tables, Sofas",Seniors,Cash,Good,Decreased,Dissatisfied,No
+Bookstore,Book Nook,Brisbane,9:00 AM,7:00 PM,11:00 AM,19:00 PM,Understaffed,5:00 PM,2821.54,11731.18,"Fiction, Children's Books",Teens,Debit Card,Good,Increased,Satisfied,No
+Clothing,Fashion Hub,Melbourne,10:00 AM,7:00 PM,18:00 PM,16:00 PM,Understaffed,6:00 PM,3376.56,26532.73,"Jeans, Dresses",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,10:00 PM,11:00 AM,20:00 PM,Understaffed,7:00 PM,888.66,30756.58,"Headphones, Smartphones",Professionals,Digital Wallet,Bad,Increased,Satisfied,Yes
+Furniture,Home Essentials,Sydney,9:00 AM,10:00 PM,20:00 PM,18:00 PM,Overstaffed,4:00 PM,3366.32,26733.9,"Chairs, Sofas",Seniors,Debit Card,Bad,Increased,Dissatisfied,Yes
+Electronics,Tech Store,Adelaide,7:00 AM,6:00 PM,19:00 PM,18:00 PM,Understaffed,5:00 PM,2243.3,14410.83,"Headphones, Laptops",Professionals,Digital Wallet,Bad,Increased,Dissatisfied,No
+Electronics,Tech Store,Brisbane,7:00 AM,7:00 PM,20:00 PM,20:00 PM,Understaffed,8:00 PM,4660.24,14862.54,"Headphones, Laptops",Professionals,Digital Wallet,Good,Decreased,Satisfied,Yes
+Electronics,Tech Store,Sydney,9:00 AM,10:00 PM,17:00 PM,16:00 PM,Understaffed,8:00 PM,5030.38,15278.61,"Headphones, Smartphones",Professionals,Credit Card,Bad,Increased,Satisfied,No
+Furniture,Home Essentials,Perth,7:00 AM,6:00 PM,14:00 PM,20:00 PM,Overstaffed,5:00 PM,1454.95,33212.91,"Sofas, Chairs",Seniors,Cash,Bad,Decreased,Satisfied,No
+Furniture,Home Essentials,Adelaide,9:00 AM,9:00 PM,14:00 PM,19:00 PM,Understaffed,6:00 PM,1056.38,31146.36,"Chairs, Tables",Seniors,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Electronics,Tech Store,Perth,7:00 AM,10:00 PM,16:00 PM,21:00 PM,Understaffed,5:00 PM,2393.49,22065.54,"Headphones, Laptops",Professionals,Cash,Bad,Increased,Satisfied,Yes
+Electronics,Tech Store,Perth,8:00 AM,9:00 PM,19:00 PM,18:00 PM,Understaffed,8:00 PM,3416.96,18043.89,"Laptops, Smartphones",Professionals,Digital Wallet,Bad,Decreased,Dissatisfied,Yes
+Furniture,Home Essentials,Adelaide,7:00 AM,9:00 PM,19:00 PM,20:00 PM,Overstaffed,8:00 PM,4017.76,4843.33,"Chairs, Sofas",Seniors,Credit Card,Bad,Increased,Satisfied,No
+Bookstore,Book Nook,Sydney,9:00 AM,9:00 PM,16:00 PM,21:00 PM,Understaffed,4:00 PM,3587.83,33886.72,"Non-fiction, Fiction",Teens,Credit Card,Good,Increased,Dissatisfied,Yes
+Clothing,Fashion Hub,Sydney,7:00 AM,8:00 PM,18:00 PM,17:00 PM,Overstaffed,4:00 PM,4114.37,16061.53,"Jeans, T-shirts",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Melbourne,7:00 AM,8:00 PM,18:00 PM,17:00 PM,Overstaffed,8:00 PM,507.56,5081.61,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Satisfied,No
+Grocery,Green Grocers,Sydney,8:00 AM,6:00 PM,11:00 AM,17:00 PM,Understaffed,5:00 PM,3618.03,29709.42,"Vegetables, Dairy Products",Families,Debit Card,Bad,Increased,Satisfied,Yes
+Clothing,Fashion Hub,Perth,7:00 AM,9:00 PM,12:00 PM,20:00 PM,Overstaffed,8:00 PM,1569.51,9908.53,"Dresses, Jeans",Young Adults,Digital Wallet,Good,Increased,Dissatisfied,No
+Clothing,Fashion Hub,Sydney,8:00 AM,7:00 PM,20:00 PM,17:00 PM,Understaffed,7:00 PM,1411.71,33851.77,"T-shirts, Jeans",Young Adults,Credit Card,Good,Increased,Dissatisfied,Yes
+Bookstore,Book Nook,Sydney,10:00 AM,9:00 PM,13:00 PM,21:00 PM,Overstaffed,5:00 PM,2615.05,31314.89,"Fiction, Children's Books",Teens,Digital Wallet,Good,Increased,Dissatisfied,Yes
